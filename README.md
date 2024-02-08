@@ -1,2 +1,2 @@
 # WebDev
-Author - Manveet
+Author - Manveet Singh
